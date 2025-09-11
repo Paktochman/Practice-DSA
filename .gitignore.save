@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# temp files
+*.save
+*.txt
+
+..DS_Store

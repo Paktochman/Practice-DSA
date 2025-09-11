@@ -1,3 +1,0 @@
-Top element is: 20
-Popped: 20
-Is empty? False
