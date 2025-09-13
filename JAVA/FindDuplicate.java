@@ -1,3 +1,8 @@
+//Given an array of integers nums containing n + 1 integers where each integer is in the range 
+//[1, n] inclusive, there is only one repeated number in nums, return this duplicate number.
+//You must not modify the array (assume it is read-only), and you must use only constant extra space.
+//Your algorithm should run in less than O(n²) time.
+
 public class FindDuplicate {
     public static int findDuplicate(int[] nums) {
         // Phase 1: Detect intersection point in the cycle
